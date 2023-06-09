@@ -9,22 +9,29 @@ Before running the script, ensure that you have the following:
     Python 3
     PyAutoGUI library (pip install pyautogui)
 
+## Installation
+
+    1. Clone the repository:
+
+    git clone https://github.com/II-777/py-lock-screen-prevent
+
+    2. Change into the project directory:
+
+    cd py-lock-screen-prevent
+
+    3. Install the required libraries:
+
+     pip install -r requirements.txt
+
 ## Usage
 
-    Clone this repository or download the script file (lsp.py).
-
-    Open a terminal or command prompt and navigate to the directory where the script is located.
-
-    Run the script by executing the following command:
-
+    Run the script:
+- Linux:
     ```shell
-
     python3 lsp.py
     ```
-
-    The script will start moving the cursor in a random direction every 1 minute.
-
-    To stop the script, press Ctrl+C in the terminal or command prompt.
+- Windows:
+    Run 'lsp.exe'
 
 ## Disclaimer
 
