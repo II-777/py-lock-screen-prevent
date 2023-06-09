@@ -1,6 +1,6 @@
 # Lock Screen Prevent
 
-lsp.py - is a python script, which automates cursor movement at the set intervals (60s by default) to prevent the screen from locking. This script also [comes](comes) packaged with a windows executable 'lsp.exe'.
+lsp.py - is a python script, which automates cursor movement at the set intervals (60s by default) to prevent the screen from locking. This script also comes packaged with a windows executable 'lsp.exe'.
 
 ## Prerequisites
 
