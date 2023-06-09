@@ -25,13 +25,15 @@ Before running the script, ensure that you have the following:
 
 ## Usage
 
-    Run the script:
-- Linux:
-    ```shell
-    python3 lsp.py
-    ```
-- Windows:
-    Run 'lsp.exe'
+On Linux:
+```shell
+python3 lsp.py
+```
+
+On Windows:
+```
+Run 'lsp.exe'
+```
 
 ## Disclaimer
 
